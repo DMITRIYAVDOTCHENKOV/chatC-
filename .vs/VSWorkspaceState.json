@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChatClient",
+    "\\ChatClient\\bin",
+    "\\ChatClient\\Connected Services",
+    "\\ChatClient\\Connected Services\\ServiceChat",
+    "\\ChatClient\\obj",
+    "\\ChatClient\\Properties",
+    "\\ChatHost",
+    "\\wcf_chat"
+  ],
+  "PreviewInSolutionExplorer": false
+}
